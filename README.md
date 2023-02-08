@@ -1,0 +1,2 @@
+# Terminal_practice
+ターミナル使ってgitの操作に慣れるための練習用リポジトリ
