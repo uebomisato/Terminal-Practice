@@ -77,3 +77,7 @@
   `git push origin [ブランチ名]`
 - 追加したファイルをステージエリアから戻す
   `git reset`
+
+### ▼ 公開鍵・秘密鍵の生成手順
+- 参考資料
+  - https://qiita.com/shizuma/items/2b2f873a0034839e47ce
