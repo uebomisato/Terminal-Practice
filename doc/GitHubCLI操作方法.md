@@ -79,8 +79,27 @@
   `git reset`
 - プル
   `git pull origin [ブランチ名]`
+- コミットの履歴を見る
+  `git log`
+
+### ▼ ブランチ関係
+
+- ブランチの作成
+  `git branch [ブランチ名]`
+- 作成済みブランチ一覧
+  `git branch`
+- ブランチの切り替え
+  `git checkout [ブランチ名]`
+- ブランチのマージ
+  1. マージ元のブランチに変更する
+  1. `git merge [ブランチ名]`で現在のブランチにマージしたいブランチを指定する
 
 ### ▼ 公開鍵・秘密鍵の生成手順
 
 - 参考資料
   - https://qiita.com/shizuma/items/2b2f873a0034839e47ce
+
+### ▼ git config の設定関係
+
+- 参考資料
+  - https://qumeru.com/magazine/587
