@@ -67,9 +67,9 @@
 - 削除
   - `gh repo delete [リポジトリ名]`
 
-### ▼ コミット・プッシュ
+### ▼ コミット・プッシュ・プル
 
-- 変更ファイルをadd　(ステージエリアに乗せる)
+- 変更ファイルを add 　(ステージエリアに乗せる)
   `git add .`
 - コミット
   `git commit -m "ここにコメント"`
@@ -77,7 +77,10 @@
   `git push origin [ブランチ名]`
 - 追加したファイルをステージエリアから戻す
   `git reset`
+- プル
+  `git pull origin [ブランチ名]`
 
 ### ▼ 公開鍵・秘密鍵の生成手順
+
 - 参考資料
   - https://qiita.com/shizuma/items/2b2f873a0034839e47ce
