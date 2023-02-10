@@ -93,3 +93,8 @@
 
 - 参考資料
   - https://qiita.com/shizuma/items/2b2f873a0034839e47ce
+
+### ▼ git config の設定関係
+
+- 参考資料
+  - https://qumeru.com/magazine/587
